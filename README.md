@@ -13,6 +13,6 @@ Belt HTD 192-3M-09 2 pcs. for X/Z<br>
 Belt HTD 105-3M-09 1 pcs. for Y<br>
 3 gears HTD 3m-20T on all motors.<br>
 <img height=500 src="https://github.com/skmskmx/CNC-milling-hobby-machine/blob/main/mahine_photo.jpg?raw=true">
-<img height=500 src="https://github.com/skmskmx/CNC-milling-hobby-machine/blob/main/frame_post_paiting.jpg?raw=true">
-Video of working machine:
+<img height=500 src="https://github.com/skmskmx/CNC-milling-hobby-machine/blob/main/frame_post_paiting.jpg?raw=true"><br>
+Video of working machine:<br>
 https://youtube.com/shorts/xfrrBVLeZIA
