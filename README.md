@@ -1,4 +1,6 @@
 # CNC-milling-hobby-machine
+Machine is designed to mill aluminium parts and is made only from stell parts with some small exceptions. It don't requaire any special tools to make just normal tools(
+Bench drill will be big help)<br>
 ball screw 1605 axis Z 300mm standard size<br>
 ball screw 1605 axis X/Y 400mm 2 pices.<br>
 linear barings axis Z HGR20 30cm 2pcs(HGH20HA 2pcs)<br>
