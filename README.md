@@ -7,3 +7,5 @@ linear barings axis Y 500mm 2pcs HGR25 3 cards<br>
 optional 3 geared wehels HTD 3m-20T on all motors.<br>
 <img height=500 src="https://github.com/skmskmx/CNC-milling-hobby-machine/blob/main/mahine_photo.jpg?raw=true">
 <img height=500 src="https://github.com/skmskmx/CNC-milling-hobby-machine/blob/main/frame_post_paiting.jpg?raw=true">
+Video of working machine:
+https://youtube.com/shorts/xfrrBVLeZIA
