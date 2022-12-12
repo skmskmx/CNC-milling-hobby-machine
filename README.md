@@ -5,10 +5,10 @@ linear barings axis Z HGR20 30cm 2szt(HGH20HA 2szt)<br>
 linear barings axis X 410mm 2pcs(I had THK-SSR for free) just use 2 carts HGH20HA i linear berings HGR20.<br>
 linear barings axis Y 500mm 2pcs HGR25 3 cards<br>
 optional 3 geared wehels HTD 3m-20T on all motors.<br>
-Under X axis square stell rods 20x20x410mm 2 pices 
-Under Y axis stell flat bar 10x25x500mm 2 pices
-Under X/Y axis bal screw use 1mm thick stell flat bar 20x1x60mm for uder bering block's.
-Under Z axis stell flat bar 15x20x500mm 2 pices
+Under X axis square stell rods 20x20x410mm 2 pices <br>
+Under Y axis stell flat bar 10x25x500mm 2 pices<br>
+Under X/Y axis bal screw use 1mm thick stell flat bar 20x1x60mm for uder bering block's.<br>
+Under Z axis stell flat bar 15x20x500mm 2 pices<br>
 <img height=500 src="https://github.com/skmskmx/CNC-milling-hobby-machine/blob/main/mahine_photo.jpg?raw=true">
 <img height=500 src="https://github.com/skmskmx/CNC-milling-hobby-machine/blob/main/frame_post_paiting.jpg?raw=true">
 Video of working machine:
